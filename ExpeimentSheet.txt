@@ -3,5 +3,5 @@ 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
 12:20 renamed local brach: branch1_1
 12:29 to push the updated brnach name  remotely
 1:06 created a sub branch of Branch1_2
-
+1:10 deleted a remote brach Branch1_2
 
