@@ -8,4 +8,6 @@ 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
 
 this commit should be preserved
 
+this commit should be deleted
+
 this commit should be preserved
